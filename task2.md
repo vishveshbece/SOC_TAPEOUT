@@ -26,3 +26,22 @@ sudo make install
 
 ```
 ![image alt](screenshots/yosy_installation.png)
+
+## 2. ICARUS VERILOG INSTALLATION
+**Icarus Verilog** is an open-source Verilog simulator for compiling and running Verilog HDL code.
+It is used to test and debug your RTL designs before synthesis.
+```bash
+sudo apt-get install iverilog
+
+```
+![image alt](sscreenshots/icarus_verilog.png)
+
+## 3. GTK WAVE INSTALLATION
+**GTKWave** is an open-source tool for visualizing simulation waveforms (VCD/LXT files).
+It helps debug circuit behavior and verify timing relationships in your designs.
+```bash
+sudo apt install gtkwave
+gtkwave
+
+```
+![image alt](screenshots/gtkwave.png)
