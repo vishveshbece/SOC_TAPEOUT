@@ -24,4 +24,5 @@ make config-gcc
 make
 sudo make install
 
+```
 ![image alt](screenshots/yosy_installation.png)
