@@ -34,7 +34,7 @@ It is used to test and debug your RTL designs before synthesis.
 sudo apt-get install iverilog
 
 ```
-![image alt](sscreenshots/icarus_verilog.png)
+![image alt](screenshots/icarus_verilog.png)
 
 ## 3. GTK WAVE INSTALLATION
 **GTKWave** is an open-source tool for visualizing simulation waveforms (VCD/LXT files).
