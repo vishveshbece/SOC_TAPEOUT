@@ -26,7 +26,7 @@ The typical simulation flow looks like this:
 
 *Replace the path below with a screenshot of the GTKWave interface or a diagram of the simulation flow.*
 
-![Simulation Flow Diagram](path/to/your/simulation_flow_diagram.png)
+![Simulation Flow Diagram](/workspaces/SOC_TAPEOUT/Week1/day1/screenshots/day101.png)
 ***
 
 ---
