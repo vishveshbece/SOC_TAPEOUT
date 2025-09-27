@@ -16,7 +16,7 @@ For this lab, we will use two primary open-source tools for simulation:
 
 ***
 
-![Simulation Flow Diagram](screenshots/day101.png)
+![Simulation Flow Diagram](screenshots/day102.png)
 ***
 
 ---
@@ -25,18 +25,28 @@ For this lab, we will use two primary open-source tools for simulation:
 
 In this lab, i  have been simulated a ripple counter.
 
-![Simulation Flow Diagram](screenshots/day101.png)
+The design and testbench of the ripple counter
 
 ![Simulation Flow Diagram](screenshots/day104.png)
 
+The output vcd file opened in the gtk wave
+
 ![Simulation Flow Diagram](screenshots/day103.png)
+
+
 ---
 ## 3. Introduction to Yosys and Logic Synthesis
 
-![Simulation Flow Diagram](screenshots/day105.png)
+The yosys is invoked and libraries are configured
+
+![Simulation Flow Diagram](screenshots/day105.png.png)
+
+The output netlist generated in the yosys
 
 ![Simulation Flow Diagram](screenshots/day107.png)
 
 ## 4. Labs using Yosys and Sky 130 pdks
 
+The written verilog file after generated through yosys netlist
+ 
 ![Simulation Flow Diagram](screenshots/day108.png)
