@@ -16,7 +16,7 @@ For this lab, we will use two primary open-source tools for simulation:
 
 ***
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day102.png)
+![Simulation Flow Diagram](screenshots/day101.png)
 ***
 
 ---
@@ -25,18 +25,18 @@ For this lab, we will use two primary open-source tools for simulation:
 
 In this lab, i  have been simulated a ripple counter.
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day101.png)
+![Simulation Flow Diagram](screenshots/day101.png)
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day104.png)
+![Simulation Flow Diagram](screenshots/day104.png)
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day103.png)
+![Simulation Flow Diagram](screenshots/day103.png)
 ---
 ## 3. Introduction to Yosys and Logic Synthesis
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day105.png)
+![Simulation Flow Diagram](screenshots/day105.png)
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day107.png)
+![Simulation Flow Diagram](screenshots/day107.png)
 
 ## 4. Labs using Yosys and Sky 130 pdks
 
-![Simulation Flow Diagram](Week1/day1/screenshots/day108.png)
+![Simulation Flow Diagram](screenshots/day108.png)
